@@ -1,0 +1,15 @@
+.nav-list {
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+.nav-list::-webkit-scrollbar {width: 0;}
+
+.nav-link {
+    color: #fff;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
