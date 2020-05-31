@@ -3,6 +3,7 @@
     background-color: #000;
     height: 132px;
     position: fixed;
+    z-index: 100;
 }
 
 .header-container {
